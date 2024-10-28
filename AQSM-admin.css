@@ -1,0 +1,22 @@
+
+
+
+/* Post Input Box Styles */
+
+
+label.aqsm-post-field-label {
+	display: inline-block;
+	min-width: 70px;
+	font-weight: bold;
+	text-align: right;
+	}
+
+.aqsm-hiddeninput {
+	display: none;
+	}
+
+#aqsm-allowableFields-form thead td, #aqsm-targetURLs-form thead td {
+	font-size: 75%;
+	font-weight: bold;
+	padding-right: 10px;
+	}
